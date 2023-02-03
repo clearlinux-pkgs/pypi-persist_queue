@@ -4,7 +4,7 @@
 #
 Name     : pypi-persist_queue
 Version  : 0.8.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/33/93/eecf4cd9f8d6ee6e08d51339bc11a4ec89eed01f92ff9c0cfbdf185e10a2/persist-queue-0.8.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/33/93/eecf4cd9f8d6ee6e08d51339bc11a4ec89eed01f92ff9c0cfbdf185e10a2/persist-queue-0.8.0.tar.gz
 Summary  : A thread-safe disk based persistent queue in Python.
@@ -61,7 +61,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1675391953
+export SOURCE_DATE_EPOCH=1675394838
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
