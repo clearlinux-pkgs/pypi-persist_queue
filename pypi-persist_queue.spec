@@ -7,7 +7,7 @@
 #
 Name     : pypi-persist_queue
 Version  : 1.0.0
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/cc/1f/495e4d941c925bcfa934f113f0ca4a5565cc00db3ab29944807f09e15457/persist-queue-1.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/cc/1f/495e4d941c925bcfa934f113f0ca4a5565cc00db3ab29944807f09e15457/persist-queue-1.0.0.tar.gz
 Summary  : A thread-safe disk based persistent queue in Python.
